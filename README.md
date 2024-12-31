@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Satiya</h1>
 <h3 align="center">A enthusiastic Computer Science learner.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush-satiya" alt="piyush-satiya" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
